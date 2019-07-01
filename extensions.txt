@@ -1,0 +1,6 @@
+Clipboard Indicator 剪切板显示
+Freon  cpu温度展示
+Lock Keys  小键盘及大写灯
+NetSpeed  网速
+openWeather  气温展示
+removable drive menu  可移动硬盘移除
